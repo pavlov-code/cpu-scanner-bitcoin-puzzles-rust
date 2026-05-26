@@ -1,0 +1,20 @@
+{
+  "last_hash_file": "D:\\git.loc\\db\\db-bitcoin\\All_In_One_RIPEMD-160_hashes.txt",
+  "last_hash_bin": null,
+  "status_color": [
+    0.0,
+    1.0,
+    0.0
+  ],
+  "carousel_enabled": false,
+  "carousel_keys_limit_input": 13,
+  "carousel_step_input": "0.00000000000000000000000000000000000000000000000000000000000000000000000000000001",
+  "carousel_step_hex_input": "0000000000000000000000000000000000000000000000000000000000000000",
+  "start_percent_str": "0.00000000000000000000000000000000000000000000000000000101957882312476945729675622",
+  "end_percent_str": "0.00000000000000000000000000000000000000000000000000000203915764624953891459523967",
+  "start_hex_str": "00000000000000000000000000000000000000000000003fffffffffffffffff",
+  "end_hex_str": "00000000000000000000000000000000000000000000007fffffffffffffffff",
+  "threads_input": 12,
+  "generation_mode": "random_sectors",
+  "sequential_state_file": null
+}
